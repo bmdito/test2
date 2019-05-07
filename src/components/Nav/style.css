@@ -1,0 +1,37 @@
+
+.navStyle {
+    background-color:lightBlue;
+    color:orange;
+    height:100px;
+    text-decoration: none;
+    text-align:right;
+    font-size:30px;
+    font-weight: bolder;
+  
+    margin: 0 auto;
+    padding: 0 ;
+    clear: both;
+    
+    
+
+}
+
+li {
+    float:left;
+    width:300px;
+    display:block;
+    margin-right:10%;
+    margin-top: 1%;
+   
+}
+
+.nums {
+    color:purple;
+}
+
+.logo {
+    font-size:50px;
+    color:white;
+    
+}
+

@@ -1,0 +1,81 @@
+ 
+ 
+[ 
+   { 
+    "id": 1,
+    "name":"SpiderMan",
+    "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/21/Web_of_Spider-Man_Vol_1_129-1.png/250px-Web_of_Spider-Man_Vol_1_129-1.png"
+   },
+   { 
+    "id": 2,
+    "name":"Flash",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnAXWOteCIkGUeW0EtFbmoMMNaILDl0FNNShJAwSXaispKui7Y7w"
+   },
+   { 
+    "id": 3,
+    "name":"Thor",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRaexxUCHgmdFYATqimHSukYvPVqxVof5L_mWl-Xc7kl5b-Yj0amQ"
+   },
+   { 
+    "id": 4,
+    "name":"Hawkeye",
+    "image": "https://vignette.wikia.nocookie.net/marveldatabase/images/e/e6/Clinton_Barton_%28Earth-30847%29_from_Marvel_vs_Capcom_Infinite_0001.png/revision/latest/scale-to-width-down/700?cb=20170922194511"
+   },
+   { 
+    "id": 5,
+    "name":"Hulk",
+    "image": "https://fermi.gsfc.nasa.gov/science/constellations/pages/inc/img/hulk/Hulk_Artwork.jpg"
+   },
+   { 
+    "id": 6,
+    "name":"antman",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt4eldlFBqq9n-4ptlfW_gT0vmCcTK8IO-SpHKqi3hE8ANy1_B-g"
+   },
+   { 
+    "id": 7,
+    "name":"Silver Surfer",
+    "image": "https://www.writeups.org/wp-content/uploads/Silver-Surfer-Marvel-Comics-Norrin-Radd-g.jpg"
+   },
+   { 
+    "id": 8,
+    "name":"Thanos",
+    "image": "https://i.pinimg.com/474x/24/69/f5/2469f5e21d27f5d93c71871b326d7e88.jpg"
+   },
+   { 
+    "id": 9,
+    "name":"Rocket",
+    "image": "https://vignette.wikia.nocookie.net/disney/images/8/83/GOTG2_-_Rocket_Racoon.png/revision/latest?cb=20170409114457"
+   },
+   { 
+    "id": 10,
+    "name":"groot",
+    "image": "https://ae01.alicdn.com/kf/HTB1K98obxrvK1RjSszeq6yObFXaL/new-2018-diy-Diamond-painting-100-full-cartoon-Groot-Embroidery-5D-Cross-Stitch-Mosaic-Rhinestone-Home.jpg_640x640.jpg"
+   },
+   { 
+    "id": 11,
+    "name":"iron man",
+    "image": "https://upload.wikimedia.org/wikipedia/en/e/e0/Iron_Man_bleeding_edge.jpg"
+   },
+   { 
+    "id": 12,
+    "name":"Captain Marvel",
+    "image": "https://i.pinimg.com/474x/4c/92/71/4c9271f6e5ebb57cfe665437a01a3c87.jpg"
+   },
+   { 
+    "id": 13,
+    "name":"Captain America",
+    "image": "https://i.pinimg.com/originals/2a/55/e7/2a55e73c9419ceb8ccf9aa9dc98c4e74.png"
+   },
+   { 
+    "id": 14,
+    "name":"Black Widow",
+    "image": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-black-widow-outfit-featured.png"
+   },
+   { 
+    "id": 15,
+    "name":"Star Lord",
+    "image": "https://progameguides.com/wp-content/uploads/2019/04/fortnite-outfit-star-lord-outfit.jpg"
+   }
+  
+
+]
